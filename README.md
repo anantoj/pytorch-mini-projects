@@ -15,6 +15,7 @@ What I learned:
 
 ## Project #2: Residual Neural Networks on CIFAR10 dataset
 What I learned:
+* Data transformations
 * Convolutional blocks
 * Logic of ResNets
 * Adam Optimizer
