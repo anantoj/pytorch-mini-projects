@@ -2,6 +2,7 @@
 > A collection of small-scale projects that helped me learn the basics of the PyTorch framework
 
 ## Project #1: Simple Neural Network on Fashion MNIST dataset
+![png](images/linear_layer.png)
 What I learned:
 * Linear Layers
 * Activation functions
@@ -14,19 +15,24 @@ What I learned:
 
 
 ## Project #2: Residual Neural Networks on CIFAR10 dataset
+![png](images/resblock.png)
 What I learned:
 * Data transformations
-* Convolutional blocks
+* Residual blocks
 * Logic of ResNets
 * Adam Optimizer
 * One cycle policy learning rate scheduler
 * Tuning ResNets
 
 ## Project 3: DCGANs on MNIST dataset
+![png](images/dcgan.png)
 What I learned:
 * Objectives of Discriminators and Generators
-* Deconvolutional blocks
+* Deconvolutions
 * Using latent tensors or noise to generate fake outputs
 * Loss function of the Generator
 * Training pipeline of DCGANs
 * Tuning DCGANs
+
+### DCGAN Result:
+![gif](images/result.gif)
